@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zA45LiIjNx6hK5VlqVlHrx077+foOMQvYleU8lhaW1M=",
+  "Source": "ProspectosApi",
+  "BasePath": "_content/ProspectosApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProspectosApi\\wwwroot",
+      "Source": "ProspectosApi",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documentos\\Documentos Escolares\\Trabajo\\Talpier-Prospectos(React-.NetCore)\\ProspectosApi\\wwwroot\\",
+      "BasePath": "_content/ProspectosApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
